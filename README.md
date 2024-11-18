@@ -1,6 +1,6 @@
 # Skymood Relay
 
-A real-time Bluesky emoji tracker built with Bun. This service connects to Bluesky's firehose and monitors posts for emoji usage, allowing clients to subscribe to specific emoji patterns and receive notifications in real-time. [Read more about it](https://dev.to/skorfmann/skymood-watch-blueskys-heartbeat-through-emojis-in-real-time-4knm) and reach out on Bluesky [@skorfmann](https://bsky.app/profile/skorfmann.com).
+A real-time Bluesky [emoji tracker](https://skymood.skorfmann.com/) built with Bun. This service connects to Bluesky's firehose and monitors posts for emoji usage, allowing clients to subscribe to specific emoji patterns and receive notifications in real-time. [Read more about it](https://dev.to/skorfmann/skymood-watch-blueskys-heartbeat-through-emojis-in-real-time-4knm) and reach out on Bluesky [@skorfmann](https://bsky.app/profile/skorfmann.com).
 
 ## Goal
 
